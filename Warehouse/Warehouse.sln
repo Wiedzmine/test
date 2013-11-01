@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse UI", "Warehouse\W
 		{A63808AE-3EAB-4286-BD99-FD3FEE82495C} = {A63808AE-3EAB-4286-BD99-FD3FEE82495C}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{A63808AE-3EAB-4286-BD99-FD3FEE82495C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product_cls", "Domain\Product_cls.csproj", "{A63808AE-3EAB-4286-BD99-FD3FEE82495C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository", "DataRepository\DataRepository.csproj", "{62B2387C-DB17-4627-9CF6-974A5CFE8EC4}"
 EndProject

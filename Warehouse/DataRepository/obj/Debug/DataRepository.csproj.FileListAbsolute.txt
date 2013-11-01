@@ -15,3 +15,10 @@ C:\Users\Admin\Desktop\Warehouse\Warehouse\bin\DataRepository.pdb
 C:\Users\Admin\Desktop\Warehouse\Warehouse\DataRepository\obj\Debug\DataRepository.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Warehouse\Warehouse\DataRepository\obj\Debug\DataRepository.dll
 C:\Users\Admin\Desktop\Warehouse\Warehouse\DataRepository\obj\Debug\DataRepository.pdb
+C:\Users\Admin\test\Warehouse\bin\WareProjectDB.mdf
+C:\Users\Admin\test\Warehouse\bin\WareProjectDB_log.ldf
+C:\Users\Admin\test\Warehouse\bin\DataRepository.dll.config
+C:\Users\Admin\test\Warehouse\bin\DataRepository.dll
+C:\Users\Admin\test\Warehouse\bin\DataRepository.pdb
+C:\Users\Admin\test\Warehouse\DataRepository\obj\Debug\DataRepository.dll
+C:\Users\Admin\test\Warehouse\DataRepository\obj\Debug\DataRepository.pdb
